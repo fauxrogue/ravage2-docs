@@ -1,0 +1,30 @@
+/* Release Notes */
+
+.release_notes {
+  font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono",
+    "Courier New", Courier, monospace !important;
+  font-size: 75%;
+  color: #1c1c1c;
+  padding: 2px 5px;
+  border-radius: 3px;
+}
+
+.cl-plain {
+  background: white;
+  border: solid 1px white;
+}
+
+.cl-fixed {
+  background: #ff4242;
+  border: solid 1px #ff4242;
+}
+
+.cl-added {
+  background: #00ffaa;
+  border: solid 1px #00ffaa;
+}
+
+.cl-improved {
+  background: #ffbb33;
+  border: solid 1px #ffbb33;
+}
