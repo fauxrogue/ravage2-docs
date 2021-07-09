@@ -1,0 +1,6 @@
+# Binary files
+*.pyc
+/__pycache__
+
+# mypy cache files
+/.mypy_cache
