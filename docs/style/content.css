@@ -1,0 +1,23 @@
+/* Main Content */
+
+.wy-nav-content {
+  background: transparent;
+  margin: auto;
+  border-radius: 25px;
+}
+
+/* Main Content - Background*/
+
+.wy-nav-content-wrap {
+  background: #1c1c1c;
+}
+
+.wy-nav-top {
+  background: #ffbb33;
+}
+
+/* Main Content - Links */
+
+.wy-nav-content a {
+  color: #ffbb33;
+}
