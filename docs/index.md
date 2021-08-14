@@ -6,9 +6,9 @@
       padding-top: 48px;
       padding-bottom: 48px;">
         <!-- Heading -->
-        <div class="heading">Streamlined PBR Texturing</div>
+        <div class="heading">This is Ravage</div>
         <!-- Sub-Heading -->
-        <div class="sub-heading">We organize, you design.</div>
+        <div class="sub-heading">It's a tool.</div>
         <!-- Product Description -->
         <div class="description">Ravage is a simplified Quixel Mixer/Substance Painter/ ArmorPaint, but within Blender. It provides
             a layer based texturing system, the ability to access local libraries and online libraries
