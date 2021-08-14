@@ -1,0 +1,59 @@
+/* Home Button */
+
+/* 
+.fa-home::before,
+.icon-home::before {
+  content: url(/docs/logo.svg);
+  background: #00ffaa;
+} */
+
+/* Clicked Menu Item */
+
+.reference.internal:active {
+  background: #ffbb33 !important;
+}
+
+/* Home Button */
+
+.wy-side-nav-search > a,
+.wy-side-nav-search > a:hover,
+.wy-side-nav-search .wy-dropdown > a,
+.wy-side-nav-search .wy-dropdown > a:hover {
+  background: transparent;
+  color: #262626;
+}
+
+/* Search */
+
+.wy-side-nav-search {
+  background: #ffbb33;
+}
+
+/* Search Input */
+
+input[type="text"][name="q"] {
+  border-radius: 5px;
+  color: #1c1c1c;
+}
+
+/* Section Titles */
+
+.caption-text {
+  color: #ffbb33;
+}
+
+/* Main */
+
+.wy-side-scroll {
+  background: #262626;
+}
+
+/* Bottom */
+
+.rst-versions {
+  display: none;
+}
+
+.wy-nav-side {
+  padding-bottom: 0;
+}
