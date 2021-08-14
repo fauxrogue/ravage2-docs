@@ -1,0 +1,11 @@
+/* Breadcrumbs */
+
+div[role="navigation"][aria-label="breadcrumbs navigation"] {
+  display: none;
+}
+
+/* Footer */
+
+footer {
+  display: none;
+}
