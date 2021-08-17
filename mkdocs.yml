@@ -31,46 +31,6 @@ markdown_extensions:
 
 # Navigation
 nav:
-  - Introduction: index.md
-  - Getting Started: common/getting_started.md
-  - Installation: common/installation.md
-  - Performance: common/performance.md
-  - FAQs: common/faq.md
-  - Release Notes: common/release_notes.md
-  - Support/Community: common/support.md
-
-  - Interface:
-      - Control Panel: panels/control.md
-      - Layer Stack: panels/stack_layer.md
-      - Filter Stack: panels/stack_fltr.md
-      - Mask Stack: panels/stack_mask.md
-      - Vector Stack: panels/stack_vector.md
-      - Bake Settings: panels/settings_bake.md
-      - Material Settings: panels/settings_material.md
-      - Quick Access Panels: panels/quick.md
-
-  - Preferences:
-      - General: preferences/general.md
-      - Assets: preferences/assets.md
-      - Keymaps: preferences/keymaps.md
-
-  - Operators:
-      - Bake: operator/bake.md
-      - Brush: operator/brush.md
-      - Channel: operator/channel.md
-      - Common: operator/common.md
-      - Filter: operator/fltr.md
-      - Image: operator/image.md
-      - Layer: operator/layer.md
-      - Library: operator/library.md
-      - Mask: operator/mask.md
-      - Material: operator/material.md
-      - Modal: operator/modal.md
-      - Node: operator/node.md
-      - Panel: operator/panel.md
-      - Panel Tabs: operator/panel_tabs.md
-      - Preview: operator/preview.md
-      - Vector: operator/vector.md
-
+  - Getting Started: index.md
   - About:
       - Copyright: about/copyright.md
