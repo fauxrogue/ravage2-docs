@@ -4,9 +4,9 @@
 
 <div class="round-box">
 
-  <h2>Series 1.1.x</h2>
+  <h2>Ravage 2</h2>
   <hr>
-  <h3>Version 1.1.0</h3>
+  <h3>Version 2.0.0</h3>
 
   <span>
     <span class="release_notes cl-fixed">[Fixed]</span>
@@ -18,7 +18,7 @@
 
 <div class="round-box">
 
-  <h2>Series 1.0.x</h2>
+  <h2>Ravage 1</h2>
   <hr>
   <h3>Version 1.0.3.3</h3>
 
