@@ -1,5 +1,5 @@
 <!-- ```
-Copyright © 2020 - 2021, Faux Rogue
+Copyright © 2020 - 2023, Faux Rogue
 
 Built with MkDocs using a theme provided by Read the Docs.
 
@@ -9,7 +9,7 @@ Read the Docs: https://readthedocs.org
 
 <div class="copyright">
 
-  <div>Copyright © <span class="teal">2020 - 2021</span>,
+  <div>Copyright © <span class="teal">2020 - 2023</span>,
   <a href="https://thefauxrogue.com" target="_blank">Faux Rogue</a></div>
 
   <br>
