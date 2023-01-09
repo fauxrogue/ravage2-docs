@@ -8,7 +8,7 @@ set -e
 find "./" -type f -iname "*.sh" -exec chmod +x {} \; && find "./" -type f -wholename "*/activate" -exec chmod +x {} \;
 
 # Run setup.
-rm -rf "./env"
-python3 -m venv "./env"
-source env/bin/activate
+rm -rf "./.venv"
+python3 -m venv "./.venv"
+source .venv/bin/activate
 pip3 install -r "./requirements.txt"
